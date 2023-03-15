@@ -26,7 +26,7 @@ namespace CarInsuranceApproval
             int tickets = Convert.ToInt32(speedingTickets);
 
             // determines if user qualifies for car insurance based on user inputs
-            bool qualifies = (age >= 15 && DUI == false && tickets < 3);
+            bool qualifies = (age > 15 && DUI == false && tickets <= 3);
             Console.WriteLine("Qualifies? " + qualifies);
 
             Console.ReadLine();
