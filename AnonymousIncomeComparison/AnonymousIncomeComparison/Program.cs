@@ -31,8 +31,9 @@ namespace AnonymousIncomeComparison
 
             // prompts user to answer question displays true or false accordingly
             Console.WriteLine("Does Person 1 make more money than Person 2?");
-            string trueOrFalse = Console.ReadLine();
-            Console.WriteLine(trueOrFalse);
+            int income1 = (rate1 * hours1) * 52;
+            int income2 = (rate2 * hours2) * 52;
+            Console.WriteLine(income1 > income2);
 
             Console.ReadLine();
 
