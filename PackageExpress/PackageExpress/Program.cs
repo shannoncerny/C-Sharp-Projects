@@ -20,28 +20,29 @@ namespace PackageExpress
             else
             {
                 Console.WriteLine("Enter package width:");
-            }
-            int pkgWidth = Convert.ToInt32(Console.ReadLine());
+                int pkgWidth = Convert.ToInt32(Console.ReadLine());
 
-            // prompts user for package height and converts to integer
-            Console.WriteLine("Enter package height:");
-            int pkgHeight = Convert.ToInt32(Console.ReadLine());
+                // prompts user for package height and converts to integer
+                Console.WriteLine("Enter package height:");
+                int pkgHeight = Convert.ToInt32(Console.ReadLine());
 
-            // prompts user for package length and converts to integer
-            Console.WriteLine("Enter package length:");
-            int pkgLength = Convert.ToInt32(Console.ReadLine());
+                // prompts user for package length and converts to integer
+                Console.WriteLine("Enter package length:");
+                int pkgLength = Convert.ToInt32(Console.ReadLine());
 
-            // displays an error message if the total dimensions are greater than 50,
-            // otherwise it multiplies the dimensions and divides by 100 to get shipping quote
-            if (pkgWidth + pkgHeight + pkgLength == 50)
-            {
-                Console.WriteLine("Package too big to be shipped via Package Express.");
+                // displays an error message if the total dimensions are greater than 50,
+                // otherwise it multiplies the dimensions and divides by 100 to get shipping quote
+                if (pkgWidth + pkgHeight + pkgLength > 50)
+                {
+                    Console.WriteLine("Package too big to be shipped via Package Express.");
+                }
+                else
+                {
+                    int result = ((pkgWidth * pkgLength * pkgHeight) * pkgWeight) / 100;
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + result + ".00\nThank you!");
+                }
             }
-            else
-            {
-                int result = ((pkgWidth * pkgLength * pkgHeight) * pkgWeight) / 100;
-                Console.WriteLine("Your estimated total for shipping this package is: $" + result +".00\nThank you!");
-            }
+
             Console.ReadLine();
         }
     }
