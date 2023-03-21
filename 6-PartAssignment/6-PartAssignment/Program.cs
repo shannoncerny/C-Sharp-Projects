@@ -120,37 +120,27 @@ class Program
         letterList.Add("N");
         letterList.Add("O");
         letterList.Add("P");
-        
+        letterList.Add("L");
+
 
         // creates a second list to keep track of duplicates
         List<string> duplicates = new List<string>();
-        duplicates.Add("L");
+        
 
         // creates a for each loop that evaluates each item and determines whether it appears more than once in list
         foreach (string letter in letterList)
         {
             int counter = 0;
-            foreach (string letter2 in letterList)
-            {
-                if (letter2 == letter)
-                {
-                    counter++;
-                }
-            }
-            if (counter == 1)
-            {
-                Console.WriteLine(letter + "- This item is unique.");
-            }
-            else
-            {
-                Console.WriteLine(letter + "- This item is a duplicate.");
-            }
             
-
             // checks to see if the items in list appear in the duplicate list
             if (duplicates.Contains(letter))
             {
                 Console.WriteLine(letter + "- This item is a duplicate.");
+            }
+            else
+            {
+                duplicates.Add(letter);
+                Console.WriteLine(letter + "- This item is unique.");
             }
             
         }
