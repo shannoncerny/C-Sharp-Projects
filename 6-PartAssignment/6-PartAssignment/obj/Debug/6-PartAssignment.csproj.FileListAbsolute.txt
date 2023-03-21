@@ -1,0 +1,7 @@
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\6-PartAssignment\6-PartAssignment\bin\Debug\6-PartAssignment.exe.config
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\6-PartAssignment\6-PartAssignment\bin\Debug\6-PartAssignment.exe
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\6-PartAssignment\6-PartAssignment\bin\Debug\6-PartAssignment.pdb
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\6-PartAssignment\6-PartAssignment\obj\Debug\6-PartAssignment.csproj.AssemblyReference.cache
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\6-PartAssignment\6-PartAssignment\obj\Debug\6-PartAssignment.csproj.CoreCompileInputs.cache
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\6-PartAssignment\6-PartAssignment\obj\Debug\6-PartAssignment.exe
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\6-PartAssignment\6-PartAssignment\obj\Debug\6-PartAssignment.pdb
