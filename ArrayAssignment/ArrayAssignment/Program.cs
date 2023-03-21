@@ -11,7 +11,11 @@ class Program
         int stringIndex = Convert.ToInt32(Console.ReadLine());
         
         // displays the season based on the user's chosen index
-        if (stringIndex <= 3)
+        if (stringIndex < 0)
+        {
+            Console.WriteLine("That index does not exist.");
+        }        
+        else if (stringIndex < stringArray.Length)
         {
             Console.WriteLine("You chose: " + stringArray[stringIndex]);
         }
@@ -25,17 +29,23 @@ class Program
         int[] intArray = { 4, 5, 6, 7, 8, 9 };
         Console.WriteLine("Select an index to choose a number:");
         int integerIndex = Convert.ToInt32(Console.ReadLine());
-        
+
         // displays number based on user's selected index
-        if (integerIndex <=6)
+
+        // displays an error message if the index user selected doesn't exist
+        if (integerIndex < 0)
+        {
+            Console.WriteLine("That index does not exist.");
+        }
+        else if (integerIndex < intArray.Length)
         {
             Console.WriteLine("You chose: " + intArray[integerIndex]);
-        }
-        // displays an error message if the index user selected doesn't exist
+        } 
         else
         {
             Console.WriteLine("That index does not exist.");
         }
+
 
         // creates a list of strings
         List<string> stringList = new List<string>(7);
@@ -52,7 +62,12 @@ class Program
         int selectedString = Convert.ToInt32(Console.ReadLine());
 
         // displays name based on user's selected index
-        if (selectedString <= 7)
+        if (selectedString < 0)
+        {
+            Console.WriteLine("That index does not exist.");
+            Console.ReadLine();
+        }
+        else if (selectedString < stringList.Count)
         {
             Console.WriteLine("You chose: " + stringList[selectedString]);
             Console.ReadLine();
@@ -60,7 +75,6 @@ class Program
         else
         {
             Console.WriteLine("That index does not exist.");
-            Console.ReadLine();
         }
 
     }
