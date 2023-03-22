@@ -1,0 +1,7 @@
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\Method\Method\bin\Debug\Method.exe.config
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\Method\Method\bin\Debug\Method.exe
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\Method\Method\bin\Debug\Method.pdb
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.csproj.AssemblyReference.cache
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.csproj.CoreCompileInputs.cache
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.exe
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\Method\Method\obj\Debug\Method.pdb
