@@ -1,0 +1,6 @@
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe.config
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.exe
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\bin\Debug\ParsingEnums.pdb
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.csproj.CoreCompileInputs.cache
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.exe
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\ParsingEnums\ParsingEnums\obj\Debug\ParsingEnums.pdb
