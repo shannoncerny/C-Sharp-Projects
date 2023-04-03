@@ -50,6 +50,7 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = CalculateQuote(insuree);
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
                 return RedirectToAction("Index");
@@ -150,6 +151,10 @@ namespace CarInsurance.Controllers
             {
                 monthlyTotal += 25;
             }
+            if (insuree.CarMake == "Porsche")
+            {
+                monthlyTotal += 25;
+            }
 
             if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
             {
@@ -173,9 +178,17 @@ namespace CarInsurance.Controllers
                 decimal fullCoverage = monthlyTotal * (decimal)0.5;
                 monthlyTotal += fullCoverage;
             }
-
             return monthlyTotal;
-            
+        }
+        public ActionResult Admin()
+        {
+            DbSet<Insuree> insurees = db.Insurees;
+            if (insurees == null)
+            {
+                return HttpNotFound();
+            }
+
+            return View(insurees);
         }
     }
 }
