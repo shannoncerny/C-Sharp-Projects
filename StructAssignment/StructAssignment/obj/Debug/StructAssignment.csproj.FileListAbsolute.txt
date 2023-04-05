@@ -1,0 +1,6 @@
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe.config
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StructAssignment\StructAssignment\bin\Debug\StructAssignment.exe
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StructAssignment\StructAssignment\bin\Debug\StructAssignment.pdb
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StructAssignment\StructAssignment\obj\Debug\StructAssignment.csproj.CoreCompileInputs.cache
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StructAssignment\StructAssignment\obj\Debug\StructAssignment.exe
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\StructAssignment\StructAssignment\obj\Debug\StructAssignment.pdb

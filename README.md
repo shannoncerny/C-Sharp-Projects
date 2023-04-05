@@ -1,8 +1,6 @@
 # C-Sharp-Projects
 These are some small projects I made using C# and .NET Framework
-<hr>
 <h2>Projects:</h2>
-<hr>
 <ul>
 	<li>Car Insurance</li>
 	<li>Twenty One</li>
@@ -21,4 +19,3 @@ These are some small projects I made using C# and .NET Framework
 	the user is given the option to hit or stay. After each round, the user's amount of money is updated and
 	they are given the choice to play again or exit the application.
 </p>
-

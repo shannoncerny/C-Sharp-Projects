@@ -1,0 +1,7 @@
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\MathAndComparisonOperations\MathAndComparisonOperations\bin\Debug\MathAndComparisonOperations.exe.config
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\MathAndComparisonOperations\MathAndComparisonOperations\bin\Debug\MathAndComparisonOperations.exe
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\MathAndComparisonOperations\MathAndComparisonOperations\bin\Debug\MathAndComparisonOperations.pdb
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\MathAndComparisonOperations.csproj.AssemblyReference.cache
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\MathAndComparisonOperations.csproj.CoreCompileInputs.cache
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\MathAndComparisonOperations.exe
+C:\Users\shann\OneDrive\Documents\GitHub\Tech-Academy-Projects\Basic_C#_Programs\MathAndComparisonOperations\MathAndComparisonOperations\obj\Debug\MathAndComparisonOperations.pdb
